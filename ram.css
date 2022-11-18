@@ -1,0 +1,63 @@
+*{margin: 0px;padding: 0px;
+}
+.hii{
+    display: flex;
+    justify-content: space-between;
+    padding: 1px;
+    
+}
+.ma{background-color: aqua;}
+span{color: red;}
+
+ul{display: flex;}
+.hii h1{color:yellow;}
+
+ul li{color: yellow;
+    list-style: none;
+    padding: 10px;
+}
+li a{text-decoration: none;
+    padding: 10px;
+    color: green;
+    border-left: 2px solid;
+}
+.hy{background-image: url("images/Landscape-mountains-nature-fog-pictures.jpg");
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    
+}.raja{display: flex;
+}
+
+.raja p{border: 2px solid;
+    
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin:0px 10px;
+    position: relative;
+    top:-40px;
+    color:wheat;
+    background-color: brown;
+
+
+}
+.rrr{display: flex;}
+.yes h3{color: blueviolet;
+    padding: 0px 10px;
+    margin: 10px;
+    background-color: red;
+    border-radius: 5px;
+
+
+
+}
+.pp{padding: 20px;
+    border-left: 2px solid white;
+}
+.pp p{
+    padding: 10px;
+}
+
+
